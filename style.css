@@ -1,0 +1,88 @@
+.container {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+
+body .btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  height: 200px;
+  width: 100%;
+  border: 3px solid black;
+  margin-right: 20px;
+  cursor: pointer;
+  background-color: white;
+}
+
+.btn-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.reset-btn {
+  height: 50px;
+  width: 200px;
+}
+
+/*
+.red-btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+  width: 200px;
+  border: 3px solid black;
+  margin-right: 20px;
+  cursor: pointer;
+  background-color: white;
+}
+.blue-btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+  width: 200px;
+  border: 3px solid black;
+  margin-right: 20px;
+  cursor: pointer;
+  background-color: white;
+}
+.green-btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+  width: 200px;
+  border: 3px solid black;
+  margin-right: 20px;
+  cursor: pointer;
+  background-color: white;
+}
+.yellow-btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+  width: 200px;
+  border: 3px solid black;
+  cursor: pointer;
+  margin-right: 20px;
+  background-color: white;
+}
+.orange-btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+  width: 200px;
+  border: 3px solid black;
+  margin-right: 20px;
+  cursor: pointer;
+  background-color: white;
+}
+
+*/
